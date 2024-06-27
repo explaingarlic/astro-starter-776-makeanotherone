@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: explaingarlic-astro-starter-776-makeanotherone
+owner: explaingarlic
+package: .
